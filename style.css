@@ -15,7 +15,7 @@ html, body {
 
 body {
     font: 15px/1.5 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-image: url('../Images/whirlpool.png');
+    background-image: url('whirlpool.png');
     display: flex;
     flex-direction: column;
 }
