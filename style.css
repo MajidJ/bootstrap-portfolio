@@ -127,6 +127,10 @@ figure {
     margin-bottom: 20px;
 }
 
+figure a {
+    color:white;
+}
+
 figcaption {
     position: relative;
     color:white;
